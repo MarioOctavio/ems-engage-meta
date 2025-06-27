@@ -1,0 +1,12 @@
+[submodule "microservices/engage-gateway"]
+	path = microservices/engage-gateway
+	url = https://github.com/MarioOctavio/ems-engage-gateway.git
+[submodule "microservices/engage-credentials-jwk"]
+	path = microservices/engage-credentials-jwk
+	url = https://github.com/MarioOctavio/ems-engage-credentials-jwk.git
+[submodule "microservices/engage-credentials-pix"]
+	path = microservices/engage-credentials-pix
+	url = https://github.com/MarioOctavio/ems-engage-credentials-pix.git
+[submodule "microservices/engage-reciever"]
+	path = microservices/engage-reciever
+	url = https://github.com/MarioOctavio/ems-engage-reciever.git
